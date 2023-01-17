@@ -1,6 +1,6 @@
 # My Masters Thesis
 conditional VAE (CVAE), VQ-VAE + PixelCNN, VQ-VAE2 + Gated PixelCNN, cVAE-cGAN in tensorflow 2.x  
-I have not implemented the VQ-VAE2 with PixelSnail due to my poor knowledge about it.
+I have not implemented the VQ-VAE2 with PixelSnail due to my poor knowledge about it.  
 The dataset is https://www.kaggle.com/datasets/andyczhao/covidx-cxr2  
 
 CVAE is based on: https://keras.io/examples/generative/vae/   
