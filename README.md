@@ -12,4 +12,4 @@ cVAE-cGAN is based on https://www.kaggle.com/code/thomasdubail/vae-gan
 <img src="https://github.com/TheEngineerProgrammer/my_masters_thesis/blob/main/imgs/reconstructions.png" alt="Reconstructions" width="600"/>
 
 ## Generations:  
-<img src="https://github.com/TheEngineerProgrammer/my_masters_thesis/blob/main/imgs/generations_new.png" alt="Generations" width="600"/>
+<img src="https://github.com/TheEngineerProgrammer/my_masters_thesis/blob/main/imgs/generations.png" alt="Generations" width="600"/>
